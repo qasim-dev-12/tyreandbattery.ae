@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How fast can you reach my location?",
+    "answer": "Our mobile technicians typically arrive within 30 to 45 minutes of booking, depending on your area.",
+    "page": "home"
+  },
+  {
+    "question": "Do you offer a warranty on replacement batteries?",
+    "answer": "Yes, every battery we install comes with a warranty of up to 24 months depending on the brand and model.",
+    "page": "home"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, card payments on-site, and installment plans through supported partners.",
+    "page": "home"
+  },
+  {
+    "question": "Can you test my battery before replacing it?",
+    "answer": "Yes, our technicians run a free diagnostic test to confirm the battery is the issue before recommending a replacement.",
+    "page": "home"
+  },
+  {
+    "question": "Do you service all car makes and models?",
+    "answer": "We stock batteries compatible with most sedans, SUVs, and light commercial vehicles.",
+    "page": "home"
+  },
+  {
+    "question": "Is there a call-out fee?",
+    "answer": "There is no call-out fee when you proceed with a battery replacement through us.",
+    "page": "home"
+  },
+  {
+    "question": "What areas do you cover?",
+    "answer": "We currently cover most districts across Dubai, with more areas being added regularly.",
+    "page": "batteries"
+  },
+  {
+    "question": "How do I know which battery fits my car?",
+    "answer": "Tell us your car's make, model, and year when you contact us, and we'll recommend the right battery.",
+    "page": "batteries"
+  },
+  {
+    "question": "Can I pay in installments?",
+    "answer": "Yes, select batteries support installment plans at checkout.",
+    "page": "batteries"
+  },
+  {
+    "question": "What if the battery I ordered is out of stock?",
+    "answer": "Our team will contact you immediately to offer an equivalent alternative or a restock timeline.",
+    "page": "batteries"
+  }
+]

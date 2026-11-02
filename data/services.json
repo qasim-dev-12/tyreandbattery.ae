@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "car-battery-replacement",
+    "name": "Car Battery Replacement",
+    "shortDescription": "Mobile car battery testing and replacement, at your home or office, usually within 30 minutes.",
+    "verb": "replacement",
+    "icon": "BatteryCharging",
+    "active": true
+  },
+  {
+    "slug": "car-battery-testing",
+    "name": "Car Battery Testing & Diagnostic",
+    "shortDescription": "A free on-site diagnostic to confirm whether your battery actually needs replacing, or if the issue is something else.",
+    "verb": "testing",
+    "icon": "Activity",
+    "active": true
+  },
+  {
+    "slug": "jump-start-service",
+    "name": "Jump-Start Service",
+    "shortDescription": "Stuck with a dead battery right now? Our mobile technicians come to you for a fast jump-start, no tow truck needed.",
+    "verb": "jump-start",
+    "icon": "Zap",
+    "active": true
+  },
+  {
+    "slug": "battery-installation",
+    "name": "Battery Installation",
+    "shortDescription": "Already have a battery? We'll install it at your location, including terminal cleaning and a post-install charge check.",
+    "verb": "installation",
+    "icon": "Wrench",
+    "active": true
+  },
+  {
+    "slug": "battery-disposal",
+    "name": "Old Battery Disposal & Recycling",
+    "shortDescription": "Environmentally responsible pickup and recycling of your old car battery, on its own or bundled with a replacement.",
+    "verb": "disposal",
+    "icon": "Recycle",
+    "active": true
+  }
+]

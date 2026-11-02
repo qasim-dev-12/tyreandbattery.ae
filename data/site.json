@@ -1,0 +1,57 @@
+{
+  "businessName": "tyreandbattery",
+  "tagline": "24/7 Mobile Car Battery Replacement",
+  "phone": "+971500000000",
+  "phoneDisplay": "+971 50 000 0000",
+  "whatsapp": "971500000000",
+  "whatsappPrefilledText": "Hi tyreandbattery, I need a car battery replacement.",
+  "address": "Office 12, Al Quoz Industrial Area 3, Dubai, UAE",
+  "city": "Dubai",
+  "country": "UAE",
+  "currency": "AED",
+  "currencySymbol": "AED",
+  "social": {
+    "facebook": "https://facebook.com/voltrunner.placeholder",
+    "instagram": "https://instagram.com/voltrunner.placeholder"
+  },
+  "hero": {
+    "titleLine1": "24/7 Car Battery Service",
+    "titleLine2": "in Dubai",
+    "subtext": "Stuck with a dead battery? Our mobile technicians come to you and get you back on the road fast, anywhere in Dubai.",
+    "trustBadges": [
+      {
+        "icon": "Clock",
+        "text": "30 Min / Fast Installation"
+      },
+      {
+        "icon": "ShieldCheck",
+        "text": "Up to 24 months / Full Warranty"
+      }
+    ],
+    "checklist": [
+      "Free on-site battery diagnostic",
+      "Certified technicians dispatched to you",
+      "Genuine batteries with full warranty",
+      "Old battery disposed of safely",
+      "Cash, card, or installment payment"
+    ]
+  },
+  "trustBadges": [
+    {
+      "icon": "Clock",
+      "text": "30 Min Response"
+    },
+    {
+      "icon": "ShieldCheck",
+      "text": "24 Month Warranty"
+    },
+    {
+      "icon": "Wrench",
+      "text": "Certified Technicians"
+    },
+    {
+      "icon": "Truck",
+      "text": "We Come To You"
+    }
+  ]
+}

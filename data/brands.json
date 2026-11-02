@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "brand-a",
+    "name": "Brand A",
+    "logo": "/images/brands/brand-a.svg",
+    "description": "Brand A is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 12
+  },
+  {
+    "slug": "brand-b",
+    "name": "Brand B",
+    "logo": "/images/brands/brand-b.svg",
+    "description": "Brand B is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 18
+  },
+  {
+    "slug": "brand-c",
+    "name": "Brand C",
+    "logo": "/images/brands/brand-c.svg",
+    "description": "Brand C is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 24
+  },
+  {
+    "slug": "brand-d",
+    "name": "Brand D",
+    "logo": "/images/brands/brand-d.svg",
+    "description": "Brand D is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 24
+  },
+  {
+    "slug": "brand-e",
+    "name": "Brand E",
+    "logo": "/images/brands/brand-e.svg",
+    "description": "Brand E is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 12
+  },
+  {
+    "slug": "brand-f",
+    "name": "Brand F",
+    "logo": "/images/brands/brand-f.svg",
+    "description": "Brand F is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 18
+  },
+  {
+    "slug": "brand-g",
+    "name": "Brand G",
+    "logo": "/images/brands/brand-g.svg",
+    "description": "Brand G is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 24
+  },
+  {
+    "slug": "brand-h",
+    "name": "Brand H",
+    "logo": "/images/brands/brand-h.svg",
+    "description": "Brand H is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 12
+  },
+  {
+    "slug": "brand-i",
+    "name": "Brand I",
+    "logo": "/images/brands/brand-i.svg",
+    "description": "Brand I is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 18
+  },
+  {
+    "slug": "brand-j",
+    "name": "Brand J",
+    "logo": "/images/brands/brand-j.svg",
+    "description": "Brand J is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 24
+  },
+  {
+    "slug": "brand-k",
+    "name": "Brand K",
+    "logo": "/images/brands/brand-k.svg",
+    "description": "Brand K is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 12
+  },
+  {
+    "slug": "brand-l",
+    "name": "Brand L",
+    "logo": "/images/brands/brand-l.svg",
+    "description": "Brand L is a fictional battery brand used as placeholder data for this demo site. It represents a reliable mid-range battery line with a strong warranty.",
+    "warrantyMonths": 18
+  }
+]

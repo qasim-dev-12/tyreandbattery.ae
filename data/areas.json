@@ -1,0 +1,4802 @@
+[
+  {
+    "slug": "downtown-1",
+    "name": "Downtown 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown 1 Metro Station",
+      "Downtown 1 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "downtown-2",
+      "dubai-internet-city-south"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "downtown-2",
+    "name": "Downtown 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown 2 Central Mall",
+      "Downtown 2 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "downtown-3",
+      "downtown-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "downtown-3",
+    "name": "Downtown 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown 3 Community Park",
+      "Downtown 3 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "downtown-4",
+      "downtown-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "downtown-4",
+    "name": "Downtown 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown 4 Main Roundabout",
+      "Downtown 4 Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "downtown-north",
+      "downtown-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "downtown-north",
+    "name": "Downtown North",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown North City Walk",
+      "Downtown North Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "downtown-south",
+      "downtown-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "downtown-south",
+    "name": "Downtown South",
+    "city": "Dubai",
+    "landmarks": [
+      "Downtown South Business Tower District",
+      "Downtown South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "marina-district-1",
+      "downtown-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "marina-district-1",
+    "name": "Marina District 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District 1 Public Beach Access",
+      "Marina District 1 Industrial Gate"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "marina-district-2",
+      "downtown-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "marina-district-2",
+    "name": "Marina District 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District 2 Sports Complex",
+      "Marina District 2 Metro Station"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "marina-district-3",
+      "marina-district-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "marina-district-3",
+    "name": "Marina District 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District 3 University Campus",
+      "Marina District 3 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "marina-district-4",
+      "marina-district-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "marina-district-4",
+    "name": "Marina District 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District 4 Industrial Gate",
+      "Marina District 4 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "marina-district-north",
+      "marina-district-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "marina-district-north",
+    "name": "Marina District North",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District North Metro Station",
+      "Marina District North Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "marina-district-south",
+      "marina-district-4"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "marina-district-south",
+    "name": "Marina District South",
+    "city": "Dubai",
+    "landmarks": [
+      "Marina District South Central Mall",
+      "Marina District South City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "business-bay-1",
+      "marina-district-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "business-bay-1",
+    "name": "Business Bay 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay 1 Community Park",
+      "Business Bay 1 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "business-bay-2",
+      "marina-district-south"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "business-bay-2",
+    "name": "Business Bay 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay 2 Main Roundabout",
+      "Business Bay 2 Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "business-bay-3",
+      "business-bay-1"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "business-bay-3",
+    "name": "Business Bay 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay 3 City Walk",
+      "Business Bay 3 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "business-bay-4",
+      "business-bay-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "business-bay-4",
+    "name": "Business Bay 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay 4 Business Tower District",
+      "Business Bay 4 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "business-bay-north",
+      "business-bay-3"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "business-bay-north",
+    "name": "Business Bay North",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay North Public Beach Access",
+      "Business Bay North Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "business-bay-south",
+      "business-bay-4"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "business-bay-south",
+    "name": "Business Bay South",
+    "city": "Dubai",
+    "landmarks": [
+      "Business Bay South Sports Complex",
+      "Business Bay South Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "al-barsha-1",
+      "business-bay-north"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-barsha-1",
+    "name": "Al Barsha 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha 1 University Campus",
+      "Al Barsha 1 Central Mall"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-barsha-2",
+      "business-bay-south"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-barsha-2",
+    "name": "Al Barsha 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha 2 Industrial Gate",
+      "Al Barsha 2 Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "al-barsha-3",
+      "al-barsha-1"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-barsha-3",
+    "name": "Al Barsha 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha 3 Metro Station",
+      "Al Barsha 3 Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "al-barsha-4",
+      "al-barsha-2"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-barsha-4",
+    "name": "Al Barsha 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha 4 Central Mall",
+      "Al Barsha 4 City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-barsha-north",
+      "al-barsha-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-barsha-north",
+    "name": "Al Barsha North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha North Community Park",
+      "Al Barsha North Business Tower District"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-barsha-south",
+      "al-barsha-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-barsha-south",
+    "name": "Al Barsha South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barsha South Main Roundabout",
+      "Al Barsha South Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "jumeirah-1",
+      "al-barsha-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jumeirah-1",
+    "name": "Jumeirah 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah 1 City Walk",
+      "Jumeirah 1 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "jumeirah-2",
+      "al-barsha-south"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "jumeirah-2",
+    "name": "Jumeirah 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah 2 Business Tower District",
+      "Jumeirah 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "jumeirah-3",
+      "jumeirah-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-3",
+    "name": "Jumeirah 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah 3 Public Beach Access",
+      "Jumeirah 3 Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "jumeirah-4",
+      "jumeirah-2"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "jumeirah-4",
+    "name": "Jumeirah 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah 4 Sports Complex",
+      "Jumeirah 4 Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "jumeirah-north",
+      "jumeirah-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "jumeirah-north",
+    "name": "Jumeirah North",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah North University Campus",
+      "Jumeirah North Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "jumeirah-south",
+      "jumeirah-4"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "jumeirah-south",
+    "name": "Jumeirah South",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah South Industrial Gate",
+      "Jumeirah South Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "deira-1",
+      "jumeirah-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "deira-1",
+    "name": "Deira 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira 1 Metro Station",
+      "Deira 1 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 34,
+    "nearbyAreas": [
+      "deira-2",
+      "jumeirah-south"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "deira-2",
+    "name": "Deira 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira 2 Central Mall",
+      "Deira 2 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "deira-3",
+      "deira-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "deira-3",
+    "name": "Deira 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira 3 Community Park",
+      "Deira 3 Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 34,
+    "nearbyAreas": [
+      "deira-4",
+      "deira-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "deira-4",
+    "name": "Deira 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira 4 Main Roundabout",
+      "Deira 4 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "deira-north",
+      "deira-3"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "deira-north",
+    "name": "Deira North",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira North City Walk",
+      "Deira North Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "deira-south",
+      "deira-4"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "deira-south",
+    "name": "Deira South",
+    "city": "Dubai",
+    "landmarks": [
+      "Deira South Business Tower District",
+      "Deira South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-qusais-1",
+      "deira-north"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-qusais-1",
+    "name": "Al Qusais 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais 1 Public Beach Access",
+      "Al Qusais 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "al-qusais-2",
+      "deira-south"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-qusais-2",
+    "name": "Al Qusais 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais 2 Sports Complex",
+      "Al Qusais 2 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "al-qusais-3",
+      "al-qusais-1"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-qusais-3",
+    "name": "Al Qusais 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais 3 University Campus",
+      "Al Qusais 3 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "al-qusais-4",
+      "al-qusais-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-qusais-4",
+    "name": "Al Qusais 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais 4 Industrial Gate",
+      "Al Qusais 4 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-qusais-north",
+      "al-qusais-3"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-qusais-north",
+    "name": "Al Qusais North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais North Metro Station",
+      "Al Qusais North Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-qusais-south",
+      "al-qusais-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-qusais-south",
+    "name": "Al Qusais South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Qusais South Central Mall",
+      "Al Qusais South City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 44,
+    "nearbyAreas": [
+      "mirdif-1",
+      "al-qusais-north"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "mirdif-1",
+    "name": "Mirdif 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif 1 Community Park",
+      "Mirdif 1 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 23,
+    "nearbyAreas": [
+      "mirdif-2",
+      "al-qusais-south"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "mirdif-2",
+    "name": "Mirdif 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif 2 Main Roundabout",
+      "Mirdif 2 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "mirdif-3",
+      "mirdif-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "mirdif-3",
+    "name": "Mirdif 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif 3 City Walk",
+      "Mirdif 3 Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "mirdif-4",
+      "mirdif-2"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "mirdif-4",
+    "name": "Mirdif 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif 4 Business Tower District",
+      "Mirdif 4 University Campus"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "mirdif-north",
+      "mirdif-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "mirdif-north",
+    "name": "Mirdif North",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif North Public Beach Access",
+      "Mirdif North Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "mirdif-south",
+      "mirdif-4"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "mirdif-south",
+    "name": "Mirdif South",
+    "city": "Dubai",
+    "landmarks": [
+      "Mirdif South Sports Complex",
+      "Mirdif South Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "al-nahda-1",
+      "mirdif-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-nahda-1",
+    "name": "Al Nahda 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda 1 University Campus",
+      "Al Nahda 1 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-nahda-2",
+      "mirdif-south"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-nahda-2",
+    "name": "Al Nahda 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda 2 Industrial Gate",
+      "Al Nahda 2 Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-nahda-3",
+      "al-nahda-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-nahda-3",
+    "name": "Al Nahda 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda 3 Metro Station",
+      "Al Nahda 3 Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "al-nahda-4",
+      "al-nahda-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-nahda-4",
+    "name": "Al Nahda 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda 4 Central Mall",
+      "Al Nahda 4 City Walk"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "al-nahda-north",
+      "al-nahda-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-nahda-north",
+    "name": "Al Nahda North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda North Community Park",
+      "Al Nahda North Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-nahda-south",
+      "al-nahda-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-nahda-south",
+    "name": "Al Nahda South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Nahda South Main Roundabout",
+      "Al Nahda South Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "silicon-oasis-1",
+      "al-nahda-north"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "silicon-oasis-1",
+    "name": "Silicon Oasis 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis 1 City Walk",
+      "Silicon Oasis 1 Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "silicon-oasis-2",
+      "al-nahda-south"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "silicon-oasis-2",
+    "name": "Silicon Oasis 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis 2 Business Tower District",
+      "Silicon Oasis 2 University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "silicon-oasis-3",
+      "silicon-oasis-1"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "silicon-oasis-3",
+    "name": "Silicon Oasis 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis 3 Public Beach Access",
+      "Silicon Oasis 3 Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "silicon-oasis-4",
+      "silicon-oasis-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "silicon-oasis-4",
+    "name": "Silicon Oasis 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis 4 Sports Complex",
+      "Silicon Oasis 4 Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "silicon-oasis-north",
+      "silicon-oasis-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "silicon-oasis-north",
+    "name": "Silicon Oasis North",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis North University Campus",
+      "Silicon Oasis North Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "silicon-oasis-south",
+      "silicon-oasis-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "silicon-oasis-south",
+    "name": "Silicon Oasis South",
+    "city": "Dubai",
+    "landmarks": [
+      "Silicon Oasis South Industrial Gate",
+      "Silicon Oasis South Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "al-quoz-1",
+      "silicon-oasis-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-quoz-1",
+    "name": "Al Quoz 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz 1 Metro Station",
+      "Al Quoz 1 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "al-quoz-2",
+      "silicon-oasis-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-quoz-2",
+    "name": "Al Quoz 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz 2 Central Mall",
+      "Al Quoz 2 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "al-quoz-3",
+      "al-quoz-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-quoz-3",
+    "name": "Al Quoz 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz 3 Community Park",
+      "Al Quoz 3 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 23,
+    "nearbyAreas": [
+      "al-quoz-4",
+      "al-quoz-2"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-quoz-4",
+    "name": "Al Quoz 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz 4 Main Roundabout",
+      "Al Quoz 4 Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-quoz-north",
+      "al-quoz-3"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-quoz-north",
+    "name": "Al Quoz North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz North City Walk",
+      "Al Quoz North Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "al-quoz-south",
+      "al-quoz-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-quoz-south",
+    "name": "Al Quoz South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Quoz South Business Tower District",
+      "Al Quoz South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "discovery-gardens-1",
+      "al-quoz-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "discovery-gardens-1",
+    "name": "Discovery Gardens 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens 1 Public Beach Access",
+      "Discovery Gardens 1 Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "discovery-gardens-2",
+      "al-quoz-south"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "discovery-gardens-2",
+    "name": "Discovery Gardens 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens 2 Sports Complex",
+      "Discovery Gardens 2 Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "discovery-gardens-3",
+      "discovery-gardens-1"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "discovery-gardens-3",
+    "name": "Discovery Gardens 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens 3 University Campus",
+      "Discovery Gardens 3 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "discovery-gardens-4",
+      "discovery-gardens-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "discovery-gardens-4",
+    "name": "Discovery Gardens 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens 4 Industrial Gate",
+      "Discovery Gardens 4 Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 34,
+    "nearbyAreas": [
+      "discovery-gardens-north",
+      "discovery-gardens-3"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "discovery-gardens-north",
+    "name": "Discovery Gardens North",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens North Metro Station",
+      "Discovery Gardens North Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "discovery-gardens-south",
+      "discovery-gardens-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "discovery-gardens-south",
+    "name": "Discovery Gardens South",
+    "city": "Dubai",
+    "landmarks": [
+      "Discovery Gardens South Central Mall",
+      "Discovery Gardens South City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "sports-city-1",
+      "discovery-gardens-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "sports-city-1",
+    "name": "Sports City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City 1 Community Park",
+      "Sports City 1 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 44,
+    "nearbyAreas": [
+      "sports-city-2",
+      "discovery-gardens-south"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "sports-city-2",
+    "name": "Sports City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City 2 Main Roundabout",
+      "Sports City 2 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "sports-city-3",
+      "sports-city-1"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "sports-city-3",
+    "name": "Sports City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City 3 City Walk",
+      "Sports City 3 Sports Complex"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "sports-city-4",
+      "sports-city-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "sports-city-4",
+    "name": "Sports City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City 4 Business Tower District",
+      "Sports City 4 University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "sports-city-north",
+      "sports-city-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "sports-city-north",
+    "name": "Sports City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City North Public Beach Access",
+      "Sports City North Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "sports-city-south",
+      "sports-city-4"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "sports-city-south",
+    "name": "Sports City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Sports City South Sports Complex",
+      "Sports City South Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 23,
+    "nearbyAreas": [
+      "motor-city-1",
+      "sports-city-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "motor-city-1",
+    "name": "Motor City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City 1 University Campus",
+      "Motor City 1 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "motor-city-2",
+      "sports-city-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "motor-city-2",
+    "name": "Motor City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City 2 Industrial Gate",
+      "Motor City 2 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "motor-city-3",
+      "motor-city-1"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "motor-city-3",
+    "name": "Motor City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City 3 Metro Station",
+      "Motor City 3 Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "motor-city-4",
+      "motor-city-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "motor-city-4",
+    "name": "Motor City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City 4 Central Mall",
+      "Motor City 4 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "motor-city-north",
+      "motor-city-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "motor-city-north",
+    "name": "Motor City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City North Community Park",
+      "Motor City North Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "motor-city-south",
+      "motor-city-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "motor-city-south",
+    "name": "Motor City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Motor City South Main Roundabout",
+      "Motor City South Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "international-city-1",
+      "motor-city-north"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "international-city-1",
+    "name": "International City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "International City 1 City Walk",
+      "International City 1 Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "international-city-2",
+      "motor-city-south"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "international-city-2",
+    "name": "International City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "International City 2 Business Tower District",
+      "International City 2 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "international-city-3",
+      "international-city-1"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "international-city-3",
+    "name": "International City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "International City 3 Public Beach Access",
+      "International City 3 Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "international-city-4",
+      "international-city-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "international-city-4",
+    "name": "International City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "International City 4 Sports Complex",
+      "International City 4 Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "international-city-north",
+      "international-city-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "international-city-north",
+    "name": "International City North",
+    "city": "Dubai",
+    "landmarks": [
+      "International City North University Campus",
+      "International City North Central Mall"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "international-city-south",
+      "international-city-4"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "international-city-south",
+    "name": "International City South",
+    "city": "Dubai",
+    "landmarks": [
+      "International City South Industrial Gate",
+      "International City South Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "jumeirah-village-circle-1",
+      "international-city-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jumeirah-village-circle-1",
+    "name": "Jumeirah Village Circle 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle 1 Metro Station",
+      "Jumeirah Village Circle 1 Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "jumeirah-village-circle-2",
+      "international-city-south"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-village-circle-2",
+    "name": "Jumeirah Village Circle 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle 2 Central Mall",
+      "Jumeirah Village Circle 2 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "jumeirah-village-circle-3",
+      "jumeirah-village-circle-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-village-circle-3",
+    "name": "Jumeirah Village Circle 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle 3 Community Park",
+      "Jumeirah Village Circle 3 Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "jumeirah-village-circle-4",
+      "jumeirah-village-circle-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-village-circle-4",
+    "name": "Jumeirah Village Circle 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle 4 Main Roundabout",
+      "Jumeirah Village Circle 4 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 23,
+    "nearbyAreas": [
+      "jumeirah-village-circle-north",
+      "jumeirah-village-circle-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jumeirah-village-circle-north",
+    "name": "Jumeirah Village Circle North",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle North City Walk",
+      "Jumeirah Village Circle North Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "jumeirah-village-circle-south",
+      "jumeirah-village-circle-4"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "jumeirah-village-circle-south",
+    "name": "Jumeirah Village Circle South",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Village Circle South Business Tower District",
+      "Jumeirah Village Circle South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "arabian-ranches-1",
+      "jumeirah-village-circle-north"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "arabian-ranches-1",
+    "name": "Arabian Ranches 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches 1 Public Beach Access",
+      "Arabian Ranches 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "arabian-ranches-2",
+      "jumeirah-village-circle-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "arabian-ranches-2",
+    "name": "Arabian Ranches 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches 2 Sports Complex",
+      "Arabian Ranches 2 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "arabian-ranches-3",
+      "arabian-ranches-1"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "arabian-ranches-3",
+    "name": "Arabian Ranches 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches 3 University Campus",
+      "Arabian Ranches 3 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "arabian-ranches-4",
+      "arabian-ranches-2"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "arabian-ranches-4",
+    "name": "Arabian Ranches 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches 4 Industrial Gate",
+      "Arabian Ranches 4 Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "arabian-ranches-north",
+      "arabian-ranches-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "arabian-ranches-north",
+    "name": "Arabian Ranches North",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches North Metro Station",
+      "Arabian Ranches North Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "arabian-ranches-south",
+      "arabian-ranches-4"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "arabian-ranches-south",
+    "name": "Arabian Ranches South",
+    "city": "Dubai",
+    "landmarks": [
+      "Arabian Ranches South Central Mall",
+      "Arabian Ranches South City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "the-springs-1",
+      "arabian-ranches-north"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "the-springs-1",
+    "name": "The Springs 1",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs 1 Community Park",
+      "The Springs 1 Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "the-springs-2",
+      "arabian-ranches-south"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "the-springs-2",
+    "name": "The Springs 2",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs 2 Main Roundabout",
+      "The Springs 2 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "the-springs-3",
+      "the-springs-1"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "the-springs-3",
+    "name": "The Springs 3",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs 3 City Walk",
+      "The Springs 3 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "the-springs-4",
+      "the-springs-2"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "the-springs-4",
+    "name": "The Springs 4",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs 4 Business Tower District",
+      "The Springs 4 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "the-springs-north",
+      "the-springs-3"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "the-springs-north",
+    "name": "The Springs North",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs North Public Beach Access",
+      "The Springs North Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "the-springs-south",
+      "the-springs-4"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "the-springs-south",
+    "name": "The Springs South",
+    "city": "Dubai",
+    "landmarks": [
+      "The Springs South Sports Complex",
+      "The Springs South Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "al-barari-1",
+      "the-springs-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-barari-1",
+    "name": "Al Barari 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari 1 University Campus",
+      "Al Barari 1 Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "al-barari-2",
+      "the-springs-south"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-barari-2",
+    "name": "Al Barari 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari 2 Industrial Gate",
+      "Al Barari 2 Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "al-barari-3",
+      "al-barari-1"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-barari-3",
+    "name": "Al Barari 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari 3 Metro Station",
+      "Al Barari 3 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "al-barari-4",
+      "al-barari-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-barari-4",
+    "name": "Al Barari 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari 4 Central Mall",
+      "Al Barari 4 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "al-barari-north",
+      "al-barari-3"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-barari-north",
+    "name": "Al Barari North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari North Community Park",
+      "Al Barari North Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "al-barari-south",
+      "al-barari-4"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-barari-south",
+    "name": "Al Barari South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Barari South Main Roundabout",
+      "Al Barari South Public Beach Access"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "dubai-hills-1",
+      "al-barari-north"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-hills-1",
+    "name": "Dubai Hills 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills 1 City Walk",
+      "Dubai Hills 1 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "dubai-hills-2",
+      "al-barari-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-hills-2",
+    "name": "Dubai Hills 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills 2 Business Tower District",
+      "Dubai Hills 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "dubai-hills-3",
+      "dubai-hills-1"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-hills-3",
+    "name": "Dubai Hills 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills 3 Public Beach Access",
+      "Dubai Hills 3 Industrial Gate"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "dubai-hills-4",
+      "dubai-hills-2"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-hills-4",
+    "name": "Dubai Hills 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills 4 Sports Complex",
+      "Dubai Hills 4 Metro Station"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "dubai-hills-north",
+      "dubai-hills-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-hills-north",
+    "name": "Dubai Hills North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills North University Campus",
+      "Dubai Hills North Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "dubai-hills-south",
+      "dubai-hills-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-hills-south",
+    "name": "Dubai Hills South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Hills South Industrial Gate",
+      "Dubai Hills South Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-furjan-1",
+      "dubai-hills-north"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-furjan-1",
+    "name": "Al Furjan 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan 1 Metro Station",
+      "Al Furjan 1 Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "al-furjan-2",
+      "dubai-hills-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-furjan-2",
+    "name": "Al Furjan 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan 2 Central Mall",
+      "Al Furjan 2 City Walk"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-furjan-3",
+      "al-furjan-1"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-furjan-3",
+    "name": "Al Furjan 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan 3 Community Park",
+      "Al Furjan 3 Business Tower District"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-furjan-4",
+      "al-furjan-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-furjan-4",
+    "name": "Al Furjan 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan 4 Main Roundabout",
+      "Al Furjan 4 Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-furjan-north",
+      "al-furjan-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-furjan-north",
+    "name": "Al Furjan North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan North City Walk",
+      "Al Furjan North Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-furjan-south",
+      "al-furjan-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-furjan-south",
+    "name": "Al Furjan South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Furjan South Business Tower District",
+      "Al Furjan South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-1",
+      "al-furjan-north"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "jumeirah-lakes-towers-1",
+    "name": "Jumeirah Lakes Towers 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers 1 Public Beach Access",
+      "Jumeirah Lakes Towers 1 Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-2",
+      "al-furjan-south"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "jumeirah-lakes-towers-2",
+    "name": "Jumeirah Lakes Towers 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers 2 Sports Complex",
+      "Jumeirah Lakes Towers 2 Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-3",
+      "jumeirah-lakes-towers-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "jumeirah-lakes-towers-3",
+    "name": "Jumeirah Lakes Towers 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers 3 University Campus",
+      "Jumeirah Lakes Towers 3 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-4",
+      "jumeirah-lakes-towers-2"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "jumeirah-lakes-towers-4",
+    "name": "Jumeirah Lakes Towers 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers 4 Industrial Gate",
+      "Jumeirah Lakes Towers 4 Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 44,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-north",
+      "jumeirah-lakes-towers-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jumeirah-lakes-towers-north",
+    "name": "Jumeirah Lakes Towers North",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers North Metro Station",
+      "Jumeirah Lakes Towers North Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "jumeirah-lakes-towers-south",
+      "jumeirah-lakes-towers-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-lakes-towers-south",
+    "name": "Jumeirah Lakes Towers South",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Lakes Towers South Central Mall",
+      "Jumeirah Lakes Towers South City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "palm-jumeirah-1",
+      "jumeirah-lakes-towers-north"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "palm-jumeirah-1",
+    "name": "Palm Jumeirah 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah 1 Community Park",
+      "Palm Jumeirah 1 Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "palm-jumeirah-2",
+      "jumeirah-lakes-towers-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "palm-jumeirah-2",
+    "name": "Palm Jumeirah 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah 2 Main Roundabout",
+      "Palm Jumeirah 2 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "palm-jumeirah-3",
+      "palm-jumeirah-1"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "palm-jumeirah-3",
+    "name": "Palm Jumeirah 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah 3 City Walk",
+      "Palm Jumeirah 3 Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 44,
+    "nearbyAreas": [
+      "palm-jumeirah-4",
+      "palm-jumeirah-2"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "palm-jumeirah-4",
+    "name": "Palm Jumeirah 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah 4 Business Tower District",
+      "Palm Jumeirah 4 University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "palm-jumeirah-north",
+      "palm-jumeirah-3"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "palm-jumeirah-north",
+    "name": "Palm Jumeirah North",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah North Public Beach Access",
+      "Palm Jumeirah North Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "palm-jumeirah-south",
+      "palm-jumeirah-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "palm-jumeirah-south",
+    "name": "Palm Jumeirah South",
+    "city": "Dubai",
+    "landmarks": [
+      "Palm Jumeirah South Sports Complex",
+      "Palm Jumeirah South Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "umm-suqeim-1",
+      "palm-jumeirah-north"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "umm-suqeim-1",
+    "name": "Umm Suqeim 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim 1 University Campus",
+      "Umm Suqeim 1 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "umm-suqeim-2",
+      "palm-jumeirah-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "umm-suqeim-2",
+    "name": "Umm Suqeim 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim 2 Industrial Gate",
+      "Umm Suqeim 2 Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "umm-suqeim-3",
+      "umm-suqeim-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "umm-suqeim-3",
+    "name": "Umm Suqeim 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim 3 Metro Station",
+      "Umm Suqeim 3 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "umm-suqeim-4",
+      "umm-suqeim-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "umm-suqeim-4",
+    "name": "Umm Suqeim 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim 4 Central Mall",
+      "Umm Suqeim 4 City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "umm-suqeim-north",
+      "umm-suqeim-3"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "umm-suqeim-north",
+    "name": "Umm Suqeim North",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim North Community Park",
+      "Umm Suqeim North Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "umm-suqeim-south",
+      "umm-suqeim-4"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "umm-suqeim-south",
+    "name": "Umm Suqeim South",
+    "city": "Dubai",
+    "landmarks": [
+      "Umm Suqeim South Main Roundabout",
+      "Umm Suqeim South Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-satwa-1",
+      "umm-suqeim-north"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-satwa-1",
+    "name": "Al Satwa 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa 1 City Walk",
+      "Al Satwa 1 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "al-satwa-2",
+      "umm-suqeim-south"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-satwa-2",
+    "name": "Al Satwa 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa 2 Business Tower District",
+      "Al Satwa 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "al-satwa-3",
+      "al-satwa-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-satwa-3",
+    "name": "Al Satwa 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa 3 Public Beach Access",
+      "Al Satwa 3 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "al-satwa-4",
+      "al-satwa-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-satwa-4",
+    "name": "Al Satwa 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa 4 Sports Complex",
+      "Al Satwa 4 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "al-satwa-north",
+      "al-satwa-3"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-satwa-north",
+    "name": "Al Satwa North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa North University Campus",
+      "Al Satwa North Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "al-satwa-south",
+      "al-satwa-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-satwa-south",
+    "name": "Al Satwa South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Satwa South Industrial Gate",
+      "Al Satwa South Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "karama-1",
+      "al-satwa-north"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "karama-1",
+    "name": "Karama 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama 1 Metro Station",
+      "Karama 1 Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "karama-2",
+      "al-satwa-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "karama-2",
+    "name": "Karama 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama 2 Central Mall",
+      "Karama 2 City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "karama-3",
+      "karama-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "karama-3",
+    "name": "Karama 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama 3 Community Park",
+      "Karama 3 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "karama-4",
+      "karama-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "karama-4",
+    "name": "Karama 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama 4 Main Roundabout",
+      "Karama 4 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "karama-north",
+      "karama-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "karama-north",
+    "name": "Karama North",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama North City Walk",
+      "Karama North Sports Complex"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "karama-south",
+      "karama-4"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "karama-south",
+    "name": "Karama South",
+    "city": "Dubai",
+    "landmarks": [
+      "Karama South Business Tower District",
+      "Karama South University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "bur-dubai-1",
+      "karama-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "bur-dubai-1",
+    "name": "Bur Dubai 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai 1 Public Beach Access",
+      "Bur Dubai 1 Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "bur-dubai-2",
+      "karama-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "bur-dubai-2",
+    "name": "Bur Dubai 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai 2 Sports Complex",
+      "Bur Dubai 2 Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "bur-dubai-3",
+      "bur-dubai-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "bur-dubai-3",
+    "name": "Bur Dubai 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai 3 University Campus",
+      "Bur Dubai 3 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "bur-dubai-4",
+      "bur-dubai-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "bur-dubai-4",
+    "name": "Bur Dubai 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai 4 Industrial Gate",
+      "Bur Dubai 4 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "bur-dubai-north",
+      "bur-dubai-3"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "bur-dubai-north",
+    "name": "Bur Dubai North",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai North Metro Station",
+      "Bur Dubai North Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "bur-dubai-south",
+      "bur-dubai-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "bur-dubai-south",
+    "name": "Bur Dubai South",
+    "city": "Dubai",
+    "landmarks": [
+      "Bur Dubai South Central Mall",
+      "Bur Dubai South City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "al-warqa-1",
+      "bur-dubai-north"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-warqa-1",
+    "name": "Al Warqa 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa 1 Community Park",
+      "Al Warqa 1 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "al-warqa-2",
+      "bur-dubai-south"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-warqa-2",
+    "name": "Al Warqa 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa 2 Main Roundabout",
+      "Al Warqa 2 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-warqa-3",
+      "al-warqa-1"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-warqa-3",
+    "name": "Al Warqa 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa 3 City Walk",
+      "Al Warqa 3 Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "al-warqa-4",
+      "al-warqa-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-warqa-4",
+    "name": "Al Warqa 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa 4 Business Tower District",
+      "Al Warqa 4 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "al-warqa-north",
+      "al-warqa-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-warqa-north",
+    "name": "Al Warqa North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa North Public Beach Access",
+      "Al Warqa North Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-warqa-south",
+      "al-warqa-4"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-warqa-south",
+    "name": "Al Warqa South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Warqa South Sports Complex",
+      "Al Warqa South Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "nad-al-sheba-1",
+      "al-warqa-north"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "nad-al-sheba-1",
+    "name": "Nad Al Sheba 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba 1 University Campus",
+      "Nad Al Sheba 1 Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "nad-al-sheba-2",
+      "al-warqa-south"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "nad-al-sheba-2",
+    "name": "Nad Al Sheba 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba 2 Industrial Gate",
+      "Nad Al Sheba 2 Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "nad-al-sheba-3",
+      "nad-al-sheba-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "nad-al-sheba-3",
+    "name": "Nad Al Sheba 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba 3 Metro Station",
+      "Nad Al Sheba 3 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "nad-al-sheba-4",
+      "nad-al-sheba-2"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "nad-al-sheba-4",
+    "name": "Nad Al Sheba 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba 4 Central Mall",
+      "Nad Al Sheba 4 City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "nad-al-sheba-north",
+      "nad-al-sheba-3"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "nad-al-sheba-north",
+    "name": "Nad Al Sheba North",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba North Community Park",
+      "Nad Al Sheba North Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "nad-al-sheba-south",
+      "nad-al-sheba-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "nad-al-sheba-south",
+    "name": "Nad Al Sheba South",
+    "city": "Dubai",
+    "landmarks": [
+      "Nad Al Sheba South Main Roundabout",
+      "Nad Al Sheba South Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "dubai-investment-park-1",
+      "nad-al-sheba-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-investment-park-1",
+    "name": "Dubai Investment Park 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park 1 City Walk",
+      "Dubai Investment Park 1 Sports Complex"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "dubai-investment-park-2",
+      "nad-al-sheba-south"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "dubai-investment-park-2",
+    "name": "Dubai Investment Park 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park 2 Business Tower District",
+      "Dubai Investment Park 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "dubai-investment-park-3",
+      "dubai-investment-park-1"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "dubai-investment-park-3",
+    "name": "Dubai Investment Park 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park 3 Public Beach Access",
+      "Dubai Investment Park 3 Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-investment-park-4",
+      "dubai-investment-park-2"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "dubai-investment-park-4",
+    "name": "Dubai Investment Park 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park 4 Sports Complex",
+      "Dubai Investment Park 4 Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "dubai-investment-park-north",
+      "dubai-investment-park-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "dubai-investment-park-north",
+    "name": "Dubai Investment Park North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park North University Campus",
+      "Dubai Investment Park North Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-investment-park-south",
+      "dubai-investment-park-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-investment-park-south",
+    "name": "Dubai Investment Park South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Investment Park South Industrial Gate",
+      "Dubai Investment Park South Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "al-mizhar-1",
+      "dubai-investment-park-north"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "al-mizhar-1",
+    "name": "Al Mizhar 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar 1 Metro Station",
+      "Al Mizhar 1 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-mizhar-2",
+      "dubai-investment-park-south"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "al-mizhar-2",
+    "name": "Al Mizhar 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar 2 Central Mall",
+      "Al Mizhar 2 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "al-mizhar-3",
+      "al-mizhar-1"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-mizhar-3",
+    "name": "Al Mizhar 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar 3 Community Park",
+      "Al Mizhar 3 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "al-mizhar-4",
+      "al-mizhar-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-mizhar-4",
+    "name": "Al Mizhar 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar 4 Main Roundabout",
+      "Al Mizhar 4 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "al-mizhar-north",
+      "al-mizhar-3"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-mizhar-north",
+    "name": "Al Mizhar North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar North City Walk",
+      "Al Mizhar North Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-mizhar-south",
+      "al-mizhar-4"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-mizhar-south",
+    "name": "Al Mizhar South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Mizhar South Business Tower District",
+      "Al Mizhar South University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "al-rashidiya-1",
+      "al-mizhar-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-rashidiya-1",
+    "name": "Al Rashidiya 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya 1 Public Beach Access",
+      "Al Rashidiya 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "al-rashidiya-2",
+      "al-mizhar-south"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-rashidiya-2",
+    "name": "Al Rashidiya 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya 2 Sports Complex",
+      "Al Rashidiya 2 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "al-rashidiya-3",
+      "al-rashidiya-1"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-rashidiya-3",
+    "name": "Al Rashidiya 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya 3 University Campus",
+      "Al Rashidiya 3 Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-rashidiya-4",
+      "al-rashidiya-2"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-rashidiya-4",
+    "name": "Al Rashidiya 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya 4 Industrial Gate",
+      "Al Rashidiya 4 Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "al-rashidiya-north",
+      "al-rashidiya-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-rashidiya-north",
+    "name": "Al Rashidiya North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya North Metro Station",
+      "Al Rashidiya North Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "al-rashidiya-south",
+      "al-rashidiya-4"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-rashidiya-south",
+    "name": "Al Rashidiya South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Rashidiya South Central Mall",
+      "Al Rashidiya South City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "al-garhoud-1",
+      "al-rashidiya-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-garhoud-1",
+    "name": "Al Garhoud 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud 1 Community Park",
+      "Al Garhoud 1 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "al-garhoud-2",
+      "al-rashidiya-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-garhoud-2",
+    "name": "Al Garhoud 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud 2 Main Roundabout",
+      "Al Garhoud 2 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-garhoud-3",
+      "al-garhoud-1"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "al-garhoud-3",
+    "name": "Al Garhoud 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud 3 City Walk",
+      "Al Garhoud 3 Sports Complex"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "al-garhoud-4",
+      "al-garhoud-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-garhoud-4",
+    "name": "Al Garhoud 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud 4 Business Tower District",
+      "Al Garhoud 4 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "al-garhoud-north",
+      "al-garhoud-3"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-garhoud-north",
+    "name": "Al Garhoud North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud North Public Beach Access",
+      "Al Garhoud North Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "al-garhoud-south",
+      "al-garhoud-4"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-garhoud-south",
+    "name": "Al Garhoud South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Garhoud South Sports Complex",
+      "Al Garhoud South Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "festival-city-1",
+      "al-garhoud-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "festival-city-1",
+    "name": "Festival City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City 1 University Campus",
+      "Festival City 1 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "festival-city-2",
+      "al-garhoud-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "festival-city-2",
+    "name": "Festival City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City 2 Industrial Gate",
+      "Festival City 2 Community Park"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "festival-city-3",
+      "festival-city-1"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "festival-city-3",
+    "name": "Festival City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City 3 Metro Station",
+      "Festival City 3 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "festival-city-4",
+      "festival-city-2"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "festival-city-4",
+    "name": "Festival City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City 4 Central Mall",
+      "Festival City 4 City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "festival-city-north",
+      "festival-city-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "festival-city-north",
+    "name": "Festival City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City North Community Park",
+      "Festival City North Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "festival-city-south",
+      "festival-city-4"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "festival-city-south",
+    "name": "Festival City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Festival City South Main Roundabout",
+      "Festival City South Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "dubai-silicon-park-1",
+      "festival-city-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-silicon-park-1",
+    "name": "Dubai Silicon Park 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park 1 City Walk",
+      "Dubai Silicon Park 1 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "dubai-silicon-park-2",
+      "festival-city-south"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-silicon-park-2",
+    "name": "Dubai Silicon Park 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park 2 Business Tower District",
+      "Dubai Silicon Park 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "dubai-silicon-park-3",
+      "dubai-silicon-park-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-silicon-park-3",
+    "name": "Dubai Silicon Park 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park 3 Public Beach Access",
+      "Dubai Silicon Park 3 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "dubai-silicon-park-4",
+      "dubai-silicon-park-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "dubai-silicon-park-4",
+    "name": "Dubai Silicon Park 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park 4 Sports Complex",
+      "Dubai Silicon Park 4 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "dubai-silicon-park-north",
+      "dubai-silicon-park-3"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-silicon-park-north",
+    "name": "Dubai Silicon Park North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park North University Campus",
+      "Dubai Silicon Park North Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "dubai-silicon-park-south",
+      "dubai-silicon-park-4"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-silicon-park-south",
+    "name": "Dubai Silicon Park South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Silicon Park South Industrial Gate",
+      "Dubai Silicon Park South Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "jebel-ali-1",
+      "dubai-silicon-park-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jebel-ali-1",
+    "name": "Jebel Ali 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali 1 Metro Station",
+      "Jebel Ali 1 Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "jebel-ali-2",
+      "dubai-silicon-park-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "jebel-ali-2",
+    "name": "Jebel Ali 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali 2 Central Mall",
+      "Jebel Ali 2 City Walk"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "jebel-ali-3",
+      "jebel-ali-1"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "jebel-ali-3",
+    "name": "Jebel Ali 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali 3 Community Park",
+      "Jebel Ali 3 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "jebel-ali-4",
+      "jebel-ali-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "jebel-ali-4",
+    "name": "Jebel Ali 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali 4 Main Roundabout",
+      "Jebel Ali 4 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "jebel-ali-north",
+      "jebel-ali-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jebel-ali-north",
+    "name": "Jebel Ali North",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali North City Walk",
+      "Jebel Ali North Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "jebel-ali-south",
+      "jebel-ali-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "jebel-ali-south",
+    "name": "Jebel Ali South",
+    "city": "Dubai",
+    "landmarks": [
+      "Jebel Ali South Business Tower District",
+      "Jebel Ali South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "dubai-production-city-1",
+      "jebel-ali-north"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-production-city-1",
+    "name": "Dubai Production City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City 1 Public Beach Access",
+      "Dubai Production City 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "dubai-production-city-2",
+      "jebel-ali-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-production-city-2",
+    "name": "Dubai Production City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City 2 Sports Complex",
+      "Dubai Production City 2 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "dubai-production-city-3",
+      "dubai-production-city-1"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-production-city-3",
+    "name": "Dubai Production City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City 3 University Campus",
+      "Dubai Production City 3 Central Mall"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "dubai-production-city-4",
+      "dubai-production-city-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-production-city-4",
+    "name": "Dubai Production City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City 4 Industrial Gate",
+      "Dubai Production City 4 Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "dubai-production-city-north",
+      "dubai-production-city-3"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-production-city-north",
+    "name": "Dubai Production City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City North Metro Station",
+      "Dubai Production City North Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-production-city-south",
+      "dubai-production-city-4"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-production-city-south",
+    "name": "Dubai Production City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Production City South Central Mall",
+      "Dubai Production City South City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "dubai-studio-city-1",
+      "dubai-production-city-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-studio-city-1",
+    "name": "Dubai Studio City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City 1 Community Park",
+      "Dubai Studio City 1 Business Tower District"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "dubai-studio-city-2",
+      "dubai-production-city-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-studio-city-2",
+    "name": "Dubai Studio City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City 2 Main Roundabout",
+      "Dubai Studio City 2 Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "dubai-studio-city-3",
+      "dubai-studio-city-1"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-studio-city-3",
+    "name": "Dubai Studio City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City 3 City Walk",
+      "Dubai Studio City 3 Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "dubai-studio-city-4",
+      "dubai-studio-city-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-studio-city-4",
+    "name": "Dubai Studio City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City 4 Business Tower District",
+      "Dubai Studio City 4 University Campus"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "dubai-studio-city-north",
+      "dubai-studio-city-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-studio-city-north",
+    "name": "Dubai Studio City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City North Public Beach Access",
+      "Dubai Studio City North Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "dubai-studio-city-south",
+      "dubai-studio-city-4"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-studio-city-south",
+    "name": "Dubai Studio City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Studio City South Sports Complex",
+      "Dubai Studio City South Metro Station"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "dubai-sports-city-1",
+      "dubai-studio-city-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "dubai-sports-city-1",
+    "name": "Dubai Sports City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City 1 University Campus",
+      "Dubai Sports City 1 Central Mall"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "dubai-sports-city-2",
+      "dubai-studio-city-south"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "dubai-sports-city-2",
+    "name": "Dubai Sports City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City 2 Industrial Gate",
+      "Dubai Sports City 2 Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-sports-city-3",
+      "dubai-sports-city-1"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-sports-city-3",
+    "name": "Dubai Sports City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City 3 Metro Station",
+      "Dubai Sports City 3 Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "dubai-sports-city-4",
+      "dubai-sports-city-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-sports-city-4",
+    "name": "Dubai Sports City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City 4 Central Mall",
+      "Dubai Sports City 4 City Walk"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "dubai-sports-city-north",
+      "dubai-sports-city-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-sports-city-north",
+    "name": "Dubai Sports City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City North Community Park",
+      "Dubai Sports City North Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "dubai-sports-city-south",
+      "dubai-sports-city-4"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "dubai-sports-city-south",
+    "name": "Dubai Sports City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Sports City South Main Roundabout",
+      "Dubai Sports City South Public Beach Access"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "al-khawaneej-1",
+      "dubai-sports-city-north"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-khawaneej-1",
+    "name": "Al Khawaneej 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej 1 City Walk",
+      "Al Khawaneej 1 Sports Complex"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-khawaneej-2",
+      "dubai-sports-city-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "al-khawaneej-2",
+    "name": "Al Khawaneej 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej 2 Business Tower District",
+      "Al Khawaneej 2 University Campus"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-khawaneej-3",
+      "al-khawaneej-1"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-khawaneej-3",
+    "name": "Al Khawaneej 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej 3 Public Beach Access",
+      "Al Khawaneej 3 Industrial Gate"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "al-khawaneej-4",
+      "al-khawaneej-2"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-khawaneej-4",
+    "name": "Al Khawaneej 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej 4 Sports Complex",
+      "Al Khawaneej 4 Metro Station"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "al-khawaneej-north",
+      "al-khawaneej-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-khawaneej-north",
+    "name": "Al Khawaneej North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej North University Campus",
+      "Al Khawaneej North Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-khawaneej-south",
+      "al-khawaneej-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "al-khawaneej-south",
+    "name": "Al Khawaneej South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Khawaneej South Industrial Gate",
+      "Al Khawaneej South Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "emirates-hills-1",
+      "al-khawaneej-north"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "emirates-hills-1",
+    "name": "Emirates Hills 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills 1 Metro Station",
+      "Emirates Hills 1 Main Roundabout"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "emirates-hills-2",
+      "al-khawaneej-south"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "emirates-hills-2",
+    "name": "Emirates Hills 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills 2 Central Mall",
+      "Emirates Hills 2 City Walk"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "emirates-hills-3",
+      "emirates-hills-1"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "emirates-hills-3",
+    "name": "Emirates Hills 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills 3 Community Park",
+      "Emirates Hills 3 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "emirates-hills-4",
+      "emirates-hills-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "emirates-hills-4",
+    "name": "Emirates Hills 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills 4 Main Roundabout",
+      "Emirates Hills 4 Public Beach Access"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "emirates-hills-north",
+      "emirates-hills-3"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "emirates-hills-north",
+    "name": "Emirates Hills North",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills North City Walk",
+      "Emirates Hills North Sports Complex"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "emirates-hills-south",
+      "emirates-hills-4"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "emirates-hills-south",
+    "name": "Emirates Hills South",
+    "city": "Dubai",
+    "landmarks": [
+      "Emirates Hills South Business Tower District",
+      "Emirates Hills South University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 43,
+    "nearbyAreas": [
+      "the-lakes-1",
+      "emirates-hills-north"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "the-lakes-1",
+    "name": "The Lakes 1",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes 1 Public Beach Access",
+      "The Lakes 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "the-lakes-2",
+      "emirates-hills-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "the-lakes-2",
+    "name": "The Lakes 2",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes 2 Sports Complex",
+      "The Lakes 2 Metro Station"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "the-lakes-3",
+      "the-lakes-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "the-lakes-3",
+    "name": "The Lakes 3",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes 3 University Campus",
+      "The Lakes 3 Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "the-lakes-4",
+      "the-lakes-2"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "the-lakes-4",
+    "name": "The Lakes 4",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes 4 Industrial Gate",
+      "The Lakes 4 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "the-lakes-north",
+      "the-lakes-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "the-lakes-north",
+    "name": "The Lakes North",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes North Metro Station",
+      "The Lakes North Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "the-lakes-south",
+      "the-lakes-4"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "the-lakes-south",
+    "name": "The Lakes South",
+    "city": "Dubai",
+    "landmarks": [
+      "The Lakes South Central Mall",
+      "The Lakes South City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "the-meadows-1",
+      "the-lakes-north"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "the-meadows-1",
+    "name": "The Meadows 1",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows 1 Community Park",
+      "The Meadows 1 Business Tower District"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "the-meadows-2",
+      "the-lakes-south"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "the-meadows-2",
+    "name": "The Meadows 2",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows 2 Main Roundabout",
+      "The Meadows 2 Public Beach Access"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 42,
+    "nearbyAreas": [
+      "the-meadows-3",
+      "the-meadows-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "the-meadows-3",
+    "name": "The Meadows 3",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows 3 City Walk",
+      "The Meadows 3 Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "the-meadows-4",
+      "the-meadows-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "the-meadows-4",
+    "name": "The Meadows 4",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows 4 Business Tower District",
+      "The Meadows 4 University Campus"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "the-meadows-north",
+      "the-meadows-3"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "the-meadows-north",
+    "name": "The Meadows North",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows North Public Beach Access",
+      "The Meadows North Industrial Gate"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "the-meadows-south",
+      "the-meadows-4"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "the-meadows-south",
+    "name": "The Meadows South",
+    "city": "Dubai",
+    "landmarks": [
+      "The Meadows South Sports Complex",
+      "The Meadows South Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-1",
+      "the-meadows-north"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "jumeirah-golf-estates-1",
+    "name": "Jumeirah Golf Estates 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates 1 University Campus",
+      "Jumeirah Golf Estates 1 Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-2",
+      "the-meadows-south"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-golf-estates-2",
+    "name": "Jumeirah Golf Estates 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates 2 Industrial Gate",
+      "Jumeirah Golf Estates 2 Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-3",
+      "jumeirah-golf-estates-1"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-golf-estates-3",
+    "name": "Jumeirah Golf Estates 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates 3 Metro Station",
+      "Jumeirah Golf Estates 3 Main Roundabout"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 34,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-4",
+      "jumeirah-golf-estates-2"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "jumeirah-golf-estates-4",
+    "name": "Jumeirah Golf Estates 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates 4 Central Mall",
+      "Jumeirah Golf Estates 4 City Walk"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-north",
+      "jumeirah-golf-estates-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "jumeirah-golf-estates-north",
+    "name": "Jumeirah Golf Estates North",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates North Community Park",
+      "Jumeirah Golf Estates North Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "jumeirah-golf-estates-south",
+      "jumeirah-golf-estates-4"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "jumeirah-golf-estates-south",
+    "name": "Jumeirah Golf Estates South",
+    "city": "Dubai",
+    "landmarks": [
+      "Jumeirah Golf Estates South Main Roundabout",
+      "Jumeirah Golf Estates South Public Beach Access"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "dubai-south-1",
+      "jumeirah-golf-estates-north"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-south-1",
+    "name": "Dubai South 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South 1 City Walk",
+      "Dubai South 1 Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "dubai-south-2",
+      "jumeirah-golf-estates-south"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-south-2",
+    "name": "Dubai South 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South 2 Business Tower District",
+      "Dubai South 2 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "dubai-south-3",
+      "dubai-south-1"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-south-3",
+    "name": "Dubai South 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South 3 Public Beach Access",
+      "Dubai South 3 Industrial Gate"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "dubai-south-4",
+      "dubai-south-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-south-4",
+    "name": "Dubai South 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South 4 Sports Complex",
+      "Dubai South 4 Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "dubai-south-north",
+      "dubai-south-3"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-south-north",
+    "name": "Dubai South North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South North University Campus",
+      "Dubai South North Central Mall"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-south-south",
+      "dubai-south-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "dubai-south-south",
+    "name": "Dubai South South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai South South Industrial Gate",
+      "Dubai South South Community Park"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-jaddaf-1",
+      "dubai-south-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-jaddaf-1",
+    "name": "Al Jaddaf 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf 1 Metro Station",
+      "Al Jaddaf 1 Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 41,
+    "nearbyAreas": [
+      "al-jaddaf-2",
+      "dubai-south-south"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-jaddaf-2",
+    "name": "Al Jaddaf 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf 2 Central Mall",
+      "Al Jaddaf 2 City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-jaddaf-3",
+      "al-jaddaf-1"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "al-jaddaf-3",
+    "name": "Al Jaddaf 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf 3 Community Park",
+      "Al Jaddaf 3 Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 38,
+    "nearbyAreas": [
+      "al-jaddaf-4",
+      "al-jaddaf-2"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-jaddaf-4",
+    "name": "Al Jaddaf 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf 4 Main Roundabout",
+      "Al Jaddaf 4 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 28,
+    "nearbyAreas": [
+      "al-jaddaf-north",
+      "al-jaddaf-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-jaddaf-north",
+    "name": "Al Jaddaf North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf North City Walk",
+      "Al Jaddaf North Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "al-jaddaf-south",
+      "al-jaddaf-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "al-jaddaf-south",
+    "name": "Al Jaddaf South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Jaddaf South Business Tower District",
+      "Al Jaddaf South University Campus"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 44,
+    "nearbyAreas": [
+      "dubai-marina-walk-1",
+      "al-jaddaf-north"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-marina-walk-1",
+    "name": "Dubai Marina Walk 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk 1 Public Beach Access",
+      "Dubai Marina Walk 1 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 40,
+    "nearbyAreas": [
+      "dubai-marina-walk-2",
+      "al-jaddaf-south"
+    ],
+    "demand": 6
+  },
+  {
+    "slug": "dubai-marina-walk-2",
+    "name": "Dubai Marina Walk 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk 2 Sports Complex",
+      "Dubai Marina Walk 2 Metro Station"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 26,
+    "nearbyAreas": [
+      "dubai-marina-walk-3",
+      "dubai-marina-walk-1"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-marina-walk-3",
+    "name": "Dubai Marina Walk 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk 3 University Campus",
+      "Dubai Marina Walk 3 Central Mall"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 36,
+    "nearbyAreas": [
+      "dubai-marina-walk-4",
+      "dubai-marina-walk-2"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-marina-walk-4",
+    "name": "Dubai Marina Walk 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk 4 Industrial Gate",
+      "Dubai Marina Walk 4 Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "dubai-marina-walk-north",
+      "dubai-marina-walk-3"
+    ],
+    "demand": 1
+  },
+  {
+    "slug": "dubai-marina-walk-north",
+    "name": "Dubai Marina Walk North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk North Metro Station",
+      "Dubai Marina Walk North Main Roundabout"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "dubai-marina-walk-south",
+      "dubai-marina-walk-4"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "dubai-marina-walk-south",
+    "name": "Dubai Marina Walk South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Marina Walk South Central Mall",
+      "Dubai Marina Walk South City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 22,
+    "nearbyAreas": [
+      "al-sufouh-1",
+      "dubai-marina-walk-north"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-sufouh-1",
+    "name": "Al Sufouh 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh 1 Community Park",
+      "Al Sufouh 1 Business Tower District"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 37,
+    "nearbyAreas": [
+      "al-sufouh-2",
+      "dubai-marina-walk-south"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "al-sufouh-2",
+    "name": "Al Sufouh 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh 2 Main Roundabout",
+      "Al Sufouh 2 Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "al-sufouh-3",
+      "al-sufouh-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "al-sufouh-3",
+    "name": "Al Sufouh 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh 3 City Walk",
+      "Al Sufouh 3 Sports Complex"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 33,
+    "nearbyAreas": [
+      "al-sufouh-4",
+      "al-sufouh-2"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "al-sufouh-4",
+    "name": "Al Sufouh 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh 4 Business Tower District",
+      "Al Sufouh 4 University Campus"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "al-sufouh-north",
+      "al-sufouh-3"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "al-sufouh-north",
+    "name": "Al Sufouh North",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh North Public Beach Access",
+      "Al Sufouh North Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 20,
+    "nearbyAreas": [
+      "al-sufouh-south",
+      "al-sufouh-4"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "al-sufouh-south",
+    "name": "Al Sufouh South",
+    "city": "Dubai",
+    "landmarks": [
+      "Al Sufouh South Sports Complex",
+      "Al Sufouh South Metro Station"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "dubai-media-city-1",
+      "al-sufouh-north"
+    ],
+    "demand": 4
+  },
+  {
+    "slug": "dubai-media-city-1",
+    "name": "Dubai Media City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City 1 University Campus",
+      "Dubai Media City 1 Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 32,
+    "nearbyAreas": [
+      "dubai-media-city-2",
+      "al-sufouh-south"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-media-city-2",
+    "name": "Dubai Media City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City 2 Industrial Gate",
+      "Dubai Media City 2 Community Park"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 30,
+    "nearbyAreas": [
+      "dubai-media-city-3",
+      "dubai-media-city-1"
+    ],
+    "demand": 10
+  },
+  {
+    "slug": "dubai-media-city-3",
+    "name": "Dubai Media City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City 3 Metro Station",
+      "Dubai Media City 3 Main Roundabout"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 27,
+    "nearbyAreas": [
+      "dubai-media-city-4",
+      "dubai-media-city-2"
+    ],
+    "demand": 8
+  },
+  {
+    "slug": "dubai-media-city-4",
+    "name": "Dubai Media City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City 4 Central Mall",
+      "Dubai Media City 4 City Walk"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 35,
+    "nearbyAreas": [
+      "dubai-media-city-north",
+      "dubai-media-city-3"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-media-city-north",
+    "name": "Dubai Media City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City North Community Park",
+      "Dubai Media City North Business Tower District"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 39,
+    "nearbyAreas": [
+      "dubai-media-city-south",
+      "dubai-media-city-4"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-media-city-south",
+    "name": "Dubai Media City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Media City South Main Roundabout",
+      "Dubai Media City South Public Beach Access"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 24,
+    "nearbyAreas": [
+      "dubai-internet-city-1",
+      "dubai-media-city-north"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-internet-city-1",
+    "name": "Dubai Internet City 1",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City 1 City Walk",
+      "Dubai Internet City 1 Sports Complex"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 25,
+    "nearbyAreas": [
+      "dubai-internet-city-2",
+      "dubai-media-city-south"
+    ],
+    "demand": 2
+  },
+  {
+    "slug": "dubai-internet-city-2",
+    "name": "Dubai Internet City 2",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City 2 Business Tower District",
+      "Dubai Internet City 2 University Campus"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 29,
+    "nearbyAreas": [
+      "dubai-internet-city-3",
+      "dubai-internet-city-1"
+    ],
+    "demand": 5
+  },
+  {
+    "slug": "dubai-internet-city-3",
+    "name": "Dubai Internet City 3",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City 3 Public Beach Access",
+      "Dubai Internet City 3 Industrial Gate"
+    ],
+    "parkingNote": "Villa driveways and open community parking; easy roadside access for our technicians.",
+    "responseMinutes": 45,
+    "nearbyAreas": [
+      "dubai-internet-city-4",
+      "dubai-internet-city-2"
+    ],
+    "demand": 9
+  },
+  {
+    "slug": "dubai-internet-city-4",
+    "name": "Dubai Internet City 4",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City 4 Sports Complex",
+      "Dubai Internet City 4 Metro Station"
+    ],
+    "parkingNote": "Mostly basement parking in residential towers; some metered street parking during the day.",
+    "responseMinutes": 34,
+    "nearbyAreas": [
+      "dubai-internet-city-north",
+      "dubai-internet-city-3"
+    ],
+    "demand": 7
+  },
+  {
+    "slug": "dubai-internet-city-north",
+    "name": "Dubai Internet City North",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City North University Campus",
+      "Dubai Internet City North Central Mall"
+    ],
+    "parkingNote": "Mixed street parking and multi-storey parking structures near commercial blocks.",
+    "responseMinutes": 31,
+    "nearbyAreas": [
+      "dubai-internet-city-south",
+      "dubai-internet-city-4"
+    ],
+    "demand": 3
+  },
+  {
+    "slug": "dubai-internet-city-south",
+    "name": "Dubai Internet City South",
+    "city": "Dubai",
+    "landmarks": [
+      "Dubai Internet City South Industrial Gate",
+      "Dubai Internet City South Community Park"
+    ],
+    "parkingNote": "Open-air compound parking typical of this area; good access for mobile service vans.",
+    "responseMinutes": 21,
+    "nearbyAreas": [
+      "downtown-1",
+      "dubai-internet-city-north"
+    ],
+    "demand": 10
+  }
+]

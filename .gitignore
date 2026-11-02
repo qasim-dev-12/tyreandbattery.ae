@@ -36,6 +36,15 @@ yarn-error.log*
 # vercel
 .vercel
 
+# customer data written by the JSON "database" — never commit real leads/orders
+/data/leads.json
+/data/orders.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+node_modules
+.next
+.env*
+.claude

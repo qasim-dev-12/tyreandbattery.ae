@@ -1,0 +1,1752 @@
+[
+  {
+    "slug": "toyota-corolla-2014-2017",
+    "name": "Toyota Corolla 2014–2017",
+    "make": "Toyota",
+    "model": "Corolla",
+    "yearFrom": 2014,
+    "yearTo": 2017,
+    "batteryType": "AGM",
+    "groupSize": "JIS51",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-camry-2015-2020",
+    "name": "Toyota Camry 2015–2020",
+    "make": "Toyota",
+    "model": "Camry",
+    "yearFrom": 2015,
+    "yearTo": 2020,
+    "batteryType": "DIN",
+    "groupSize": "JIS88",
+    "startStop": true,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-yaris-2016-2020",
+    "name": "Toyota Yaris 2016–2020",
+    "make": "Toyota",
+    "model": "Yaris",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "JIS",
+    "groupSize": "EFB63",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 10,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-land-cruiser-2017-2021",
+    "name": "Toyota Land Cruiser 2017–2021",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "Standard",
+    "groupSize": "EFB93",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-prado-2018-2022",
+    "name": "Toyota Prado 2018–2022",
+    "make": "Toyota",
+    "model": "Prado",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "EFB",
+    "groupSize": "AGM94",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-fortuner-2019-2023",
+    "name": "Toyota Fortuner 2019–2023",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "EFB",
+    "groupSize": "AGM84",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-hilux-2020-2025",
+    "name": "Toyota Hilux 2020–2025",
+    "make": "Toyota",
+    "model": "Hilux",
+    "yearFrom": 2020,
+    "yearTo": 2025,
+    "batteryType": "JIS",
+    "groupSize": "JIS80",
+    "startStop": true,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-rav4-2021-2024",
+    "name": "Toyota RAV4 2021–2024",
+    "make": "Toyota",
+    "model": "RAV4",
+    "yearFrom": 2021,
+    "yearTo": 2024,
+    "batteryType": "DIN",
+    "groupSize": "AGM97",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-avalon-2014-2018",
+    "name": "Toyota Avalon 2014–2018",
+    "make": "Toyota",
+    "model": "Avalon",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "DIN",
+    "groupSize": "JIS52",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-rush-2015-2018",
+    "name": "Toyota Rush 2015–2018",
+    "make": "Toyota",
+    "model": "Rush",
+    "yearFrom": 2015,
+    "yearTo": 2018,
+    "batteryType": "EFB",
+    "groupSize": "AGM63",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-innova-2016-2020",
+    "name": "Toyota Innova 2016–2020",
+    "make": "Toyota",
+    "model": "Innova",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "JIS",
+    "groupSize": "AGM95",
+    "startStop": true,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "toyota-vios-2017-2021",
+    "name": "Toyota Vios 2017–2021",
+    "make": "Toyota",
+    "model": "Vios",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "JIS",
+    "groupSize": "DIN65",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-civic-2018-2022",
+    "name": "Honda Civic 2018–2022",
+    "make": "Honda",
+    "model": "Civic",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "Standard",
+    "groupSize": "EFB91",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-accord-2019-2022",
+    "name": "Honda Accord 2019–2022",
+    "make": "Honda",
+    "model": "Accord",
+    "yearFrom": 2019,
+    "yearTo": 2022,
+    "batteryType": "AGM",
+    "groupSize": "AGM89",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-cr-v-2020-2023",
+    "name": "Honda CR-V 2020–2023",
+    "make": "Honda",
+    "model": "CR-V",
+    "yearFrom": 2020,
+    "yearTo": 2023,
+    "batteryType": "AGM",
+    "groupSize": "AGM75",
+    "startStop": true,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-city-2021-2025",
+    "name": "Honda City 2021–2025",
+    "make": "Honda",
+    "model": "City",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "DIN",
+    "groupSize": "DIN66",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-pilot-2014-2018",
+    "name": "Honda Pilot 2014–2018",
+    "make": "Honda",
+    "model": "Pilot",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "EFB",
+    "groupSize": "JIS79",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-hr-v-2015-2020",
+    "name": "Honda HR-V 2015–2020",
+    "make": "Honda",
+    "model": "HR-V",
+    "yearFrom": 2015,
+    "yearTo": 2020,
+    "batteryType": "EFB",
+    "groupSize": "DIN80",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-odyssey-2016-2020",
+    "name": "Honda Odyssey 2016–2020",
+    "make": "Honda",
+    "model": "Odyssey",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "JIS",
+    "groupSize": "DIN86",
+    "startStop": true,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "honda-insight-2017-2022",
+    "name": "Honda Insight 2017–2022",
+    "make": "Honda",
+    "model": "Insight",
+    "yearFrom": 2017,
+    "yearTo": 2022,
+    "batteryType": "EFB",
+    "groupSize": "DIN64",
+    "startStop": true,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-altima-2018-2022",
+    "name": "Nissan Altima 2018–2022",
+    "make": "Nissan",
+    "model": "Altima",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "EFB",
+    "groupSize": "JIS81",
+    "startStop": false,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-sunny-2019-2023",
+    "name": "Nissan Sunny 2019–2023",
+    "make": "Nissan",
+    "model": "Sunny",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "DIN52",
+    "startStop": true,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-patrol-2020-2023",
+    "name": "Nissan Patrol 2020–2023",
+    "make": "Nissan",
+    "model": "Patrol",
+    "yearFrom": 2020,
+    "yearTo": 2023,
+    "batteryType": "EFB",
+    "groupSize": "EFB96",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-x-trail-2021-2026",
+    "name": "Nissan X-Trail 2021–2026",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "yearFrom": 2021,
+    "yearTo": 2026,
+    "batteryType": "EFB",
+    "groupSize": "AGM78",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-kicks-2014-2017",
+    "name": "Nissan Kicks 2014–2017",
+    "make": "Nissan",
+    "model": "Kicks",
+    "yearFrom": 2014,
+    "yearTo": 2017,
+    "batteryType": "DIN",
+    "groupSize": "DIN64",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-maxima-2015-2018",
+    "name": "Nissan Maxima 2015–2018",
+    "make": "Nissan",
+    "model": "Maxima",
+    "yearFrom": 2015,
+    "yearTo": 2018,
+    "batteryType": "EFB",
+    "groupSize": "JIS73",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-sentra-2016-2020",
+    "name": "Nissan Sentra 2016–2020",
+    "make": "Nissan",
+    "model": "Sentra",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "AGM",
+    "groupSize": "EFB70",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-pathfinder-2017-2022",
+    "name": "Nissan Pathfinder 2017–2022",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "yearFrom": 2017,
+    "yearTo": 2022,
+    "batteryType": "Standard",
+    "groupSize": "DIN72",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "nissan-juke-2018-2022",
+    "name": "Nissan Juke 2018–2022",
+    "make": "Nissan",
+    "model": "Juke",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "AGM",
+    "groupSize": "EFB96",
+    "startStop": false,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-elantra-2019-2023",
+    "name": "Hyundai Elantra 2019–2023",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "DIN59",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-tucson-2020-2024",
+    "name": "Hyundai Tucson 2020–2024",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "yearFrom": 2020,
+    "yearTo": 2024,
+    "batteryType": "EFB",
+    "groupSize": "EFB76",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-accent-2021-2025",
+    "name": "Hyundai Accent 2021–2025",
+    "make": "Hyundai",
+    "model": "Accent",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "DIN",
+    "groupSize": "JIS65",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-santa-fe-2014-2017",
+    "name": "Hyundai Santa Fe 2014–2017",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "yearFrom": 2014,
+    "yearTo": 2017,
+    "batteryType": "Standard",
+    "groupSize": "DIN93",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-sonata-2015-2018",
+    "name": "Hyundai Sonata 2015–2018",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "yearFrom": 2015,
+    "yearTo": 2018,
+    "batteryType": "JIS",
+    "groupSize": "JIS76",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-creta-2016-2019",
+    "name": "Hyundai Creta 2016–2019",
+    "make": "Hyundai",
+    "model": "Creta",
+    "yearFrom": 2016,
+    "yearTo": 2019,
+    "batteryType": "Standard",
+    "groupSize": "AGM80",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-i10-2017-2020",
+    "name": "Hyundai i10 2017–2020",
+    "make": "Hyundai",
+    "model": "i10",
+    "yearFrom": 2017,
+    "yearTo": 2020,
+    "batteryType": "AGM",
+    "groupSize": "DIN73",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 10,
+    "dataVerified": false
+  },
+  {
+    "slug": "hyundai-i20-2018-2022",
+    "name": "Hyundai i20 2018–2022",
+    "make": "Hyundai",
+    "model": "i20",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "Standard",
+    "groupSize": "DIN71",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 10,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-sportage-2019-2024",
+    "name": "Kia Sportage 2019–2024",
+    "make": "Kia",
+    "model": "Sportage",
+    "yearFrom": 2019,
+    "yearTo": 2024,
+    "batteryType": "JIS",
+    "groupSize": "EFB91",
+    "startStop": true,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-cerato-2020-2024",
+    "name": "Kia Cerato 2020–2024",
+    "make": "Kia",
+    "model": "Cerato",
+    "yearFrom": 2020,
+    "yearTo": 2024,
+    "batteryType": "DIN",
+    "groupSize": "DIN99",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-sorento-2021-2024",
+    "name": "Kia Sorento 2021–2024",
+    "make": "Kia",
+    "model": "Sorento",
+    "yearFrom": 2021,
+    "yearTo": 2024,
+    "batteryType": "AGM",
+    "groupSize": "AGM62",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-seltos-2014-2018",
+    "name": "Kia Seltos 2014–2018",
+    "make": "Kia",
+    "model": "Seltos",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "Standard",
+    "groupSize": "DIN97",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-rio-2015-2019",
+    "name": "Kia Rio 2015–2019",
+    "make": "Kia",
+    "model": "Rio",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "AGM",
+    "groupSize": "EFB71",
+    "startStop": true,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-optima-2016-2020",
+    "name": "Kia Optima 2016–2020",
+    "make": "Kia",
+    "model": "Optima",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "Standard",
+    "groupSize": "DIN99",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 1,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-picanto-2017-2021",
+    "name": "Kia Picanto 2017–2021",
+    "make": "Kia",
+    "model": "Picanto",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "JIS",
+    "groupSize": "DIN100",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "kia-carnival-2018-2022",
+    "name": "Kia Carnival 2018–2022",
+    "make": "Kia",
+    "model": "Carnival",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "Standard",
+    "groupSize": "AGM88",
+    "startStop": false,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-pajero-2019-2023",
+    "name": "Mitsubishi Pajero 2019–2023",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "JIS82",
+    "startStop": true,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-lancer-2020-2025",
+    "name": "Mitsubishi Lancer 2020–2025",
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "yearFrom": 2020,
+    "yearTo": 2025,
+    "batteryType": "AGM",
+    "groupSize": "DIN98",
+    "startStop": true,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-outlander-2021-2024",
+    "name": "Mitsubishi Outlander 2021–2024",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "yearFrom": 2021,
+    "yearTo": 2024,
+    "batteryType": "DIN",
+    "groupSize": "DIN52",
+    "startStop": true,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-attrage-2014-2019",
+    "name": "Mitsubishi Attrage 2014–2019",
+    "make": "Mitsubishi",
+    "model": "Attrage",
+    "yearFrom": 2014,
+    "yearTo": 2019,
+    "batteryType": "AGM",
+    "groupSize": "AGM61",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-asx-2015-2019",
+    "name": "Mitsubishi ASX 2015–2019",
+    "make": "Mitsubishi",
+    "model": "ASX",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "EFB",
+    "groupSize": "DIN92",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "mitsubishi-xpander-2016-2021",
+    "name": "Mitsubishi Xpander 2016–2021",
+    "make": "Mitsubishi",
+    "model": "Xpander",
+    "yearFrom": 2016,
+    "yearTo": 2021,
+    "batteryType": "JIS",
+    "groupSize": "AGM61",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-explorer-2017-2022",
+    "name": "Ford Explorer 2017–2022",
+    "make": "Ford",
+    "model": "Explorer",
+    "yearFrom": 2017,
+    "yearTo": 2022,
+    "batteryType": "EFB",
+    "groupSize": "EFB86",
+    "startStop": true,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-edge-2018-2023",
+    "name": "Ford Edge 2018–2023",
+    "make": "Ford",
+    "model": "Edge",
+    "yearFrom": 2018,
+    "yearTo": 2023,
+    "batteryType": "Standard",
+    "groupSize": "EFB82",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-f-150-2019-2023",
+    "name": "Ford F-150 2019–2023",
+    "make": "Ford",
+    "model": "F-150",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "AGM",
+    "groupSize": "DIN66",
+    "startStop": true,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-ranger-2020-2023",
+    "name": "Ford Ranger 2020–2023",
+    "make": "Ford",
+    "model": "Ranger",
+    "yearFrom": 2020,
+    "yearTo": 2023,
+    "batteryType": "EFB",
+    "groupSize": "EFB56",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-escape-2021-2024",
+    "name": "Ford Escape 2021–2024",
+    "make": "Ford",
+    "model": "Escape",
+    "yearFrom": 2021,
+    "yearTo": 2024,
+    "batteryType": "Standard",
+    "groupSize": "AGM67",
+    "startStop": true,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-focus-2014-2018",
+    "name": "Ford Focus 2014–2018",
+    "make": "Ford",
+    "model": "Focus",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "AGM",
+    "groupSize": "AGM67",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "ford-fiesta-2015-2020",
+    "name": "Ford Fiesta 2015–2020",
+    "make": "Ford",
+    "model": "Fiesta",
+    "yearFrom": 2015,
+    "yearTo": 2020,
+    "batteryType": "EFB",
+    "groupSize": "DIN72",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-tahoe-2016-2020",
+    "name": "Chevrolet Tahoe 2016–2020",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "Standard",
+    "groupSize": "JIS99",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-malibu-2017-2022",
+    "name": "Chevrolet Malibu 2017–2022",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "yearFrom": 2017,
+    "yearTo": 2022,
+    "batteryType": "AGM",
+    "groupSize": "EFB64",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-captiva-2018-2023",
+    "name": "Chevrolet Captiva 2018–2023",
+    "make": "Chevrolet",
+    "model": "Captiva",
+    "yearFrom": 2018,
+    "yearTo": 2023,
+    "batteryType": "EFB",
+    "groupSize": "EFB84",
+    "startStop": false,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-suburban-2019-2023",
+    "name": "Chevrolet Suburban 2019–2023",
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "Standard",
+    "groupSize": "EFB76",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 1,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-spark-2020-2024",
+    "name": "Chevrolet Spark 2020–2024",
+    "make": "Chevrolet",
+    "model": "Spark",
+    "yearFrom": 2020,
+    "yearTo": 2024,
+    "batteryType": "JIS",
+    "groupSize": "DIN57",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "chevrolet-cruze-2021-2025",
+    "name": "Chevrolet Cruze 2021–2025",
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "AGM",
+    "groupSize": "EFB92",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-es-2014-2018",
+    "name": "Lexus ES 2014–2018",
+    "make": "Lexus",
+    "model": "ES",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "EFB",
+    "groupSize": "JIS99",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-rx-2015-2019",
+    "name": "Lexus RX 2015–2019",
+    "make": "Lexus",
+    "model": "RX",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "DIN",
+    "groupSize": "DIN95",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-lx-2016-2019",
+    "name": "Lexus LX 2016–2019",
+    "make": "Lexus",
+    "model": "LX",
+    "yearFrom": 2016,
+    "yearTo": 2019,
+    "batteryType": "JIS",
+    "groupSize": "AGM96",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-gx-2017-2021",
+    "name": "Lexus GX 2017–2021",
+    "make": "Lexus",
+    "model": "GX",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "JIS",
+    "groupSize": "EFB68",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-nx-2018-2023",
+    "name": "Lexus NX 2018–2023",
+    "make": "Lexus",
+    "model": "NX",
+    "yearFrom": 2018,
+    "yearTo": 2023,
+    "batteryType": "EFB",
+    "groupSize": "JIS79",
+    "startStop": false,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "lexus-ux-2019-2024",
+    "name": "Lexus UX 2019–2024",
+    "make": "Lexus",
+    "model": "UX",
+    "yearFrom": 2019,
+    "yearTo": 2024,
+    "batteryType": "Standard",
+    "groupSize": "JIS95",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-6-2020-2024",
+    "name": "Mazda 6 2020–2024",
+    "make": "Mazda",
+    "model": "6",
+    "yearFrom": 2020,
+    "yearTo": 2024,
+    "batteryType": "Standard",
+    "groupSize": "DIN83",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-3-2021-2024",
+    "name": "Mazda 3 2021–2024",
+    "make": "Mazda",
+    "model": "3",
+    "yearFrom": 2021,
+    "yearTo": 2024,
+    "batteryType": "AGM",
+    "groupSize": "DIN60",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-cx-5-2014-2018",
+    "name": "Mazda CX-5 2014–2018",
+    "make": "Mazda",
+    "model": "CX-5",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "AGM",
+    "groupSize": "EFB91",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-cx-9-2015-2018",
+    "name": "Mazda CX-9 2015–2018",
+    "make": "Mazda",
+    "model": "CX-9",
+    "yearFrom": 2015,
+    "yearTo": 2018,
+    "batteryType": "AGM",
+    "groupSize": "JIS94",
+    "startStop": true,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-2-2016-2019",
+    "name": "Mazda 2 2016–2019",
+    "make": "Mazda",
+    "model": "2",
+    "yearFrom": 2016,
+    "yearTo": 2019,
+    "batteryType": "Standard",
+    "groupSize": "DIN85",
+    "startStop": true,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "mazda-cx-3-2017-2021",
+    "name": "Mazda CX-3 2017–2021",
+    "make": "Mazda",
+    "model": "CX-3",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "Standard",
+    "groupSize": "JIS82",
+    "startStop": true,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "suzuki-swift-2018-2023",
+    "name": "Suzuki Swift 2018–2023",
+    "make": "Suzuki",
+    "model": "Swift",
+    "yearFrom": 2018,
+    "yearTo": 2023,
+    "batteryType": "DIN",
+    "groupSize": "AGM50",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 1,
+    "dataVerified": false
+  },
+  {
+    "slug": "suzuki-vitara-2019-2023",
+    "name": "Suzuki Vitara 2019–2023",
+    "make": "Suzuki",
+    "model": "Vitara",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "EFB57",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "suzuki-ciaz-2020-2023",
+    "name": "Suzuki Ciaz 2020–2023",
+    "make": "Suzuki",
+    "model": "Ciaz",
+    "yearFrom": 2020,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "EFB69",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "suzuki-baleno-2021-2025",
+    "name": "Suzuki Baleno 2021–2025",
+    "make": "Suzuki",
+    "model": "Baleno",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "AGM",
+    "groupSize": "AGM53",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "suzuki-jimny-2014-2017",
+    "name": "Suzuki Jimny 2014–2017",
+    "make": "Suzuki",
+    "model": "Jimny",
+    "yearFrom": 2014,
+    "yearTo": 2017,
+    "batteryType": "EFB",
+    "groupSize": "AGM75",
+    "startStop": false,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 6,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-c-class-2015-2019",
+    "name": "Mercedes-Benz C-Class 2015–2019",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "EFB",
+    "groupSize": "DIN52",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-e-class-2016-2019",
+    "name": "Mercedes-Benz E-Class 2016–2019",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "yearFrom": 2016,
+    "yearTo": 2019,
+    "batteryType": "EFB",
+    "groupSize": "AGM51",
+    "startStop": true,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-glc-2017-2020",
+    "name": "Mercedes-Benz GLC 2017–2020",
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "yearFrom": 2017,
+    "yearTo": 2020,
+    "batteryType": "DIN",
+    "groupSize": "JIS88",
+    "startStop": false,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-gle-2018-2022",
+    "name": "Mercedes-Benz GLE 2018–2022",
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "yearFrom": 2018,
+    "yearTo": 2022,
+    "batteryType": "Standard",
+    "groupSize": "JIS81",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-a-class-2019-2023",
+    "name": "Mercedes-Benz A-Class 2019–2023",
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "Standard",
+    "groupSize": "AGM95",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "mercedes-benz-s-class-2020-2025",
+    "name": "Mercedes-Benz S-Class 2020–2025",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "yearFrom": 2020,
+    "yearTo": 2025,
+    "batteryType": "JIS",
+    "groupSize": "EFB98",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-3-series-2021-2025",
+    "name": "BMW 3 Series 2021–2025",
+    "make": "BMW",
+    "model": "3 Series",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "DIN",
+    "groupSize": "AGM55",
+    "startStop": false,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-5-series-2014-2017",
+    "name": "BMW 5 Series 2014–2017",
+    "make": "BMW",
+    "model": "5 Series",
+    "yearFrom": 2014,
+    "yearTo": 2017,
+    "batteryType": "DIN",
+    "groupSize": "JIS85",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 2,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-x3-2015-2019",
+    "name": "BMW X3 2015–2019",
+    "make": "BMW",
+    "model": "X3",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "JIS",
+    "groupSize": "JIS53",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-x5-2016-2020",
+    "name": "BMW X5 2016–2020",
+    "make": "BMW",
+    "model": "X5",
+    "yearFrom": 2016,
+    "yearTo": 2020,
+    "batteryType": "JIS",
+    "groupSize": "EFB76",
+    "startStop": false,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-7-series-2017-2021",
+    "name": "BMW 7 Series 2017–2021",
+    "make": "BMW",
+    "model": "7 Series",
+    "yearFrom": 2017,
+    "yearTo": 2021,
+    "batteryType": "DIN",
+    "groupSize": "DIN70",
+    "startStop": true,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  },
+  {
+    "slug": "bmw-x1-2018-2021",
+    "name": "BMW X1 2018–2021",
+    "make": "BMW",
+    "model": "X1",
+    "yearFrom": 2018,
+    "yearTo": 2021,
+    "batteryType": "JIS",
+    "groupSize": "AGM54",
+    "startStop": true,
+    "commonIssues": [
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 8,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-a4-2019-2023",
+    "name": "Audi A4 2019–2023",
+    "make": "Audi",
+    "model": "A4",
+    "yearFrom": 2019,
+    "yearTo": 2023,
+    "batteryType": "JIS",
+    "groupSize": "EFB92",
+    "startStop": false,
+    "commonIssues": [
+      "Alternator undercharging at idle",
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 10,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-a6-2020-2024",
+    "name": "Audi A6 2020–2024",
+    "make": "Audi",
+    "model": "A6",
+    "yearFrom": 2020,
+    "yearTo": 2024,
+    "batteryType": "DIN",
+    "groupSize": "EFB52",
+    "startStop": false,
+    "commonIssues": [
+      "Start-stop system drains battery faster",
+      "Battery sensor misreads after replacement"
+    ],
+    "popularity": 7,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-q5-2021-2025",
+    "name": "Audi Q5 2021–2025",
+    "make": "Audi",
+    "model": "Q5",
+    "yearFrom": 2021,
+    "yearTo": 2025,
+    "batteryType": "JIS",
+    "groupSize": "EFB50",
+    "startStop": true,
+    "commonIssues": [
+      "Battery sensor misreads after replacement",
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 3,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-q7-2014-2018",
+    "name": "Audi Q7 2014–2018",
+    "make": "Audi",
+    "model": "Q7",
+    "yearFrom": 2014,
+    "yearTo": 2018,
+    "batteryType": "DIN",
+    "groupSize": "AGM54",
+    "startStop": true,
+    "commonIssues": [
+      "Slow crank in high heat",
+      "Corroded terminals"
+    ],
+    "popularity": 10,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-a3-2015-2019",
+    "name": "Audi A3 2015–2019",
+    "make": "Audi",
+    "model": "A3",
+    "yearFrom": 2015,
+    "yearTo": 2019,
+    "batteryType": "Standard",
+    "groupSize": "JIS79",
+    "startStop": false,
+    "commonIssues": [
+      "Corroded terminals",
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 4,
+    "dataVerified": false
+  },
+  {
+    "slug": "audi-q3-2016-2019",
+    "name": "Audi Q3 2016–2019",
+    "make": "Audi",
+    "model": "Q3",
+    "yearFrom": 2016,
+    "yearTo": 2019,
+    "batteryType": "DIN",
+    "groupSize": "DIN93",
+    "startStop": true,
+    "commonIssues": [
+      "Parasitic drain from infotainment system",
+      "Short trips preventing full recharge"
+    ],
+    "popularity": 5,
+    "dataVerified": false
+  },
+  {
+    "slug": "volkswagen-jetta-2017-2020",
+    "name": "Volkswagen Jetta 2017–2020",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "yearFrom": 2017,
+    "yearTo": 2020,
+    "batteryType": "Standard",
+    "groupSize": "AGM62",
+    "startStop": true,
+    "commonIssues": [
+      "Short trips preventing full recharge",
+      "Battery tray corrosion",
+      "Alternator undercharging at idle"
+    ],
+    "popularity": 9,
+    "dataVerified": false
+  }
+]
